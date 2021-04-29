@@ -1,1 +1,1 @@
-# Solo Project. Personal Amazon-Lite-Clone
+# Solo Project: Personal Amazon-Lite-Clone
